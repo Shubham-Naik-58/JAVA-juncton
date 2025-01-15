@@ -159,7 +159,7 @@ justify-content: right;
 }
 
 .bg-image {
-    background-image: url(xyz.jpg);
+    background-image: url(images/xyz.jpg);
     height: 700px;
     width: 1000px;
     margin-left: 250px;
